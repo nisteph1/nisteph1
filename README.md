@@ -1,4 +1,7 @@
 ### Hi there 👋
+This is Nicholas, tech enthusiast....this is my path and agenda to go from enthusiast to proficiency in the tech spac;
+starting from foundational IT fundamentals to systems (Linux,Windows,etc) administrations, networking and then up into the cloud and securing the cloud!
+Currently working on Linux & AWS fundamentals...
 
 <!--
 **nisteph1/nisteph1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
