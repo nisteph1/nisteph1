@@ -1,5 +1,5 @@
 ### Hi there 👋
-This is Nicholas, tech enthusiast....this is my path and agenda to go from enthusiast to proficiency in the tech spac;
+This is Nicholas, tech enthusiast....this is my path and agenda to go from enthusiast to proficiency in the tech space;
 starting from foundational IT fundamentals to systems (Linux,Windows,etc) administrations, networking and then up into the cloud and securing the cloud!
 Currently working on Linux & AWS fundamentals...
 
